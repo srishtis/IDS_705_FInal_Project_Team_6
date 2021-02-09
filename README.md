@@ -1,2 +1,2 @@
-# IDS_705_FInal_Project_Team_6
+# IDS705 Final Project: Study of GANs
 This is the final project repo for Team 6
